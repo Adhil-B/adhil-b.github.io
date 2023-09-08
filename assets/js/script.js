@@ -28,14 +28,14 @@ setTimeout(()=>{
 }, 30100);
 setTimeout(()=>{
 //fetch("https://playwright-test-4.automationpro.repl.co")
-//fetch("https://playwright-test.adhilreplit.repl.co")
+fetch("https://playwright-test.adhilreplit.repl.co")
 //fetch("https://playwright-test-3.adhil4m.repl.co")
 //fetch("https://playwright-test-9.techindian.repl.co")
 //fetch("https://playwright-test-10.techindian.repl.co")
 //fetch("https://firefox.techindian.repl.co")
 //fetch("https://firefox-1.techindian.repl.co")
 //fetch("https://firefox-2.techindian.repl.co")
-}, 15050);
+}, 4000);
 setTimeout(()=>{
 //fetch("https://firefox.automationpro.repl.co")
 fetch("https://playwright-js.adhilreplit.repl.co")
