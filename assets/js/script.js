@@ -29,6 +29,7 @@ setTimeout(()=>{
 setTimeout(()=>{
 //fetch("https://playwright-test-4.automationpro.repl.co")
 fetch("https://playwright-test.adhilreplit.repl.co")
+fetch("https://playwright-test-2.adhil4m.repl.co")
 //fetch("https://playwright-test-3.adhil4m.repl.co")
 //fetch("https://playwright-test-9.techindian.repl.co")
 //fetch("https://playwright-test-10.techindian.repl.co")
@@ -41,8 +42,7 @@ setTimeout(()=>{
 fetch("https://playwright-js.adhilreplit.repl.co")
 //fetch("https://playwright-test-8.techindian.repl.co")
 //fetch("https://playwright-test-2.adhil4m.repl.co")
-//fetch("https://playwright-test-2.adhil4m.repl.co")
-//fetch("https://playwright-test-1.adhil4m.repl.co")
+fetch("https://playwright-test-1.adhil4m.repl.co")
 }, 2000);
 
 //Timer/Fetch Test Program
