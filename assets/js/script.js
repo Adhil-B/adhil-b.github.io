@@ -18,7 +18,7 @@ setTimeout(()=>{
 }, 45200);
 setTimeout(()=>{
 //fetch("https://playwright-test-7.techindian.repl.co")
-//fetch("https://playwright-test-3.automationpro.repl.co")
+fetch("https://playwright-test-3.automationpro.repl.co")
 //fetch("https://puppeteer.adhilreplit.repl.co")
 //fetch("https://puppeteer-test-2.adhil4m.repl.co")
 //fetch("https://playwright-test-3.techindian.repl.co")
@@ -27,7 +27,7 @@ setTimeout(()=>{
 //fetch("https://playwright-test-5.techindian.repl.co")
 }, 30100);
 setTimeout(()=>{
-//fetch("https://playwright-test-4.automationpro.repl.co")
+fetch("https://playwright-test-4.automationpro.repl.co")
 fetch("https://playwright-test.adhilreplit.repl.co")
 fetch("https://playwright-test-2.adhil4m.repl.co")
 //fetch("https://playwright-test-3.adhil4m.repl.co")
