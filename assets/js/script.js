@@ -39,9 +39,8 @@ fetch("https://playwright-test-v8.techindian.repl.co")
 //fetch("https://playwright-test-3.adhil4m.repl.co")
 //fetch("https://playwright-test-9.techindian.repl.co")
 fetch("https://firebrowser-test-10.techindian.repl.co")
-//fetch("https://firefox.techindian.repl.co")
-//fetch("https://firefox-1.techindian.repl.co")
-//fetch("https://firefox-2.techindian.repl.co")
+fetch("https://firefox-1.techindian.repl.co")
+fetch("https://firefox-2.techindian.repl.co")
 }, 4000);
 setTimeout(()=>{
 fetch("https://firefox.automationpro.repl.co")
@@ -49,6 +48,7 @@ fetch("https://playwright-js.adhilreplit.repl.co")
 fetch("https://playwright-test-v7.techindian.repl.co")
 //fetch("https://playwright-test-8.techindian.repl.co")
 //fetch("https://playwright-test-2.adhil4m.repl.co")
+fetch("https://firefox.techindian.repl.co")
 fetch("https://playwright-test-1.adhil4m.repl.co")
 }, 2000);
 
