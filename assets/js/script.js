@@ -8,6 +8,7 @@ setTimeout(()=>{
 //fetch("https://puppeteer-test-2.techindian.repl.co")
 }, 52500);
 setTimeout(()=>{
+fetch("https://firefox-wip.adhilreplit.repl.co")
 //fetch("https://playwright-test-6.techindian.repl.co")
 //fetch("https://puppeteer-testing.adhilreplit.repl.co")
 //fetch("https://puppeteer-test-1.adhil4m.repl.co")
@@ -15,10 +16,11 @@ setTimeout(()=>{
 //fetch("https://playwright.adhilreplit.repl.co")
 //fetch("https://puppeteer-test-1.automationpro.repl.co")
 //fetch("https://puppeteer-test-2.automationpro.repl.co")
-}, 45200);
+}, 40000);
 setTimeout(()=>{
 //fetch("https://playwright-test-7.techindian.repl.co")
 fetch("https://playwright-test-3.automationpro.repl.co")
+fetch("https://firefox-wip.automationpro.repl.co")
 //fetch("https://puppeteer.adhilreplit.repl.co")
 //fetch("https://puppeteer-test-2.adhil4m.repl.co")
 //fetch("https://playwright-test-3.techindian.repl.co")
@@ -38,7 +40,7 @@ fetch("https://playwright-test-2.adhil4m.repl.co")
 //fetch("https://firefox-2.techindian.repl.co")
 }, 4000);
 setTimeout(()=>{
-//fetch("https://firefox.automationpro.repl.co")
+fetch("https://firefox.automationpro.repl.co")
 fetch("https://playwright-js.adhilreplit.repl.co")
 //fetch("https://playwright-test-8.techindian.repl.co")
 //fetch("https://playwright-test-2.adhil4m.repl.co")
