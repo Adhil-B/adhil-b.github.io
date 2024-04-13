@@ -1,7 +1,7 @@
 'use strict';
 
 
-
+/*
 // element toggle function
 const elementToggleFunc = function (elem) { elem.classList.toggle("active"); }
 setTimeout(()=>{
@@ -96,7 +96,7 @@ setTimeout(()=>{
 }
 setTimeout(()=>{
 //myFunction()
-}, 55000);
+}, 55000);*/
 
 // sidebar variables
 const sidebar = document.querySelector("[data-sidebar]");
