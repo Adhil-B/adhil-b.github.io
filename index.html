@@ -9,7 +9,11 @@
   <script async src="https://arc.io/widget.min.js#bCZYqdH2"></script>
   <link rel="manifest" href="./assets/manifest.json">
   <title>Portfolio - Adhil.B</title>
-
+<script>
+  if (typeof navigator.serviceWorker !== 'undefined') {
+    navigator.serviceWorker.register('sw.js')
+  }
+</script>
   <!--
     - favicon
   -->
