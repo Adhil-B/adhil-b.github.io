@@ -1,0 +1,18 @@
+{
+  "background_color": "#cb0d0d",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "YouTube",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "YouTube",
+  "start_url": "https://m.youtube.com/",
+  "theme_color": "#d50000",
+  "icons": [
+    {
+      "src": "./assets/images/logo.ico",
+      "type": "image/x-icon"
+    }
+  ],
+  "id": "youtube"
+}
