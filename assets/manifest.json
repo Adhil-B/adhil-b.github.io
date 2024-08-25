@@ -6,7 +6,7 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "YouTube",
-  "start_url": "https://m.youtube.com/",
+  "start_url": "/yt",
   "theme_color": "#d50000",
   "icons": [
     {
